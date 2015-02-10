@@ -75,6 +75,7 @@
 				<div class="header-bar-fixed">
 					<div class="container">
 						<div class="row">
+							<!-- comentario -->
 							<div class="col-sm-3 logo-container">
 								{% if "fixed_menu_logo.jpg" | has_custom_image %}
 								<div id="logo" class="img">
